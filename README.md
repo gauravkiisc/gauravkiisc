@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Gaurav+Kumar;M.Tech+AI+Student+at+IISc;ML+%7C+NLP+%7C+Researcher;Working+on+Robust+ASR+Models">
+</p>
+
 # Hi there! 👋
 
 I’m **Gaurav Kumar**, doing **M.Tech in AI** at **IISc (Class of 2026)**.  
